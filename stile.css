@@ -38,7 +38,9 @@ header{
 .itens-nav{display: flex;}
 .vazio-azul{
     background-color: #2028F2 ;
-    height: 953.5px;
+    height: 85vh;
     width: 77px;
-    
+    left: 10px;
+    top: 80px;
+    position: absolute;
 }
