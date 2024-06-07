@@ -35,3 +35,10 @@ header{
     text-decoration: none;
     color: #2028F2;
 }
+.itens-nav{display: flex;}
+.vazio-azul{
+    background-color: #2028F2 ;
+    height: 953.5px;
+    width: 77px;
+    
+}
