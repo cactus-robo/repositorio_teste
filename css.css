@@ -85,11 +85,27 @@ main{
    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.25);
 
 }
-.container-img{
+#colegio .container{
     align-items: center;
     display: flex;
     flex-direction: column;
     gap: 30px;
     justify-content: center;
 
+}
+#colegio .container-img{
+    width: 1000px;
+
+}
+#colegio .container-img img {
+    width: 100%;
+    height: auto;
+}
+#colegio .container-txt{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 28px;
+ 
 }
